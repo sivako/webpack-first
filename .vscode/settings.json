@@ -1,0 +1,25 @@
+{
+  "files.autoSave": "off",
+  "editor.wordWrapColumn": 90,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "files.trimTrailingWhitespace": true,
+  "editor.minimap.enabled": false,
+  "editor.detectIndentation": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "git.confirmSync": false,
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "editor.largeFileOptimizations": false
+}
